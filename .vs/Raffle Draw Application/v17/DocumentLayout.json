@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\displaywinner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|solutionrelative:displaywinner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|c:\\users\\hehea\\source\\repos\\raffle draw application\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|solutionrelative:my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\congratulations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|solutionrelative:congratulations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\displaywinner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|solutionrelative:displaywinner.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\congratulations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{2267F2AC-F1C0-4258-A5B4-E6E08FB347F5}|Raffle Draw Application.vbproj|solutionrelative:congratulations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Raffle Draw Application||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "My Project\\Application.Designer.vb",
+              "ViewState": "AQIAABIAAAAAAAAAAAAnwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-01T22:54:05.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Raffle Draw Application",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Raffle Draw Application.vbproj",
+              "RelativeDocumentMoniker": "Raffle Draw Application.vbproj",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Raffle Draw Application.vbproj",
+              "RelativeToolTip": "Raffle Draw Application.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T12:45:54.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayWinner.vb",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\DisplayWinner.vb",
+              "RelativeDocumentMoniker": "DisplayWinner.vb",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\DisplayWinner.vb",
+              "RelativeToolTip": "DisplayWinner.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAjwBwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T11:48:37.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Congratulations.vb",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Congratulations.vb",
+              "RelativeDocumentMoniker": "Congratulations.vb",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Congratulations.vb",
+              "RelativeToolTip": "Congratulations.vb",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T07:56:03.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Congratulations.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Congratulations.vb",
+              "RelativeDocumentMoniker": "Congratulations.vb",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Congratulations.vb [Design]",
+              "RelativeToolTip": "Congratulations.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T07:23:29.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DisplayWinner.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\DisplayWinner.vb",
+              "RelativeDocumentMoniker": "DisplayWinner.vb",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\DisplayWinner.vb [Design]",
+              "RelativeToolTip": "DisplayWinner.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T06:43:53.803Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAFcBAAAAAAAAAAAAwGQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T06:12:33.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Hehea\\source\\repos\\Raffle Draw Application\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-29T06:01:49.041Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
